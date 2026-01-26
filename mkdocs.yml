@@ -1,0 +1,8 @@
+site_name: Proyecto de Leonardo Jesús Arévalo Abellán
+site_url: https://K6SSL69.github.io/proyecto-mkdocs/
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+

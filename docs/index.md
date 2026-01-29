@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Bienvenido a mi portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hola, soy **Leonardo**, estudiante de infomática de primero de **DAW** en el
+IES Los Albares.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Sobre mí
+- Me interesa el desarrollo web
+- Aprendiendo Git y MkDocs
+- ESto es una práctica de la asignatura de **Entornos de Desarrollo**

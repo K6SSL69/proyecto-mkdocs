@@ -1,5 +1,4 @@
 ### 📬 `contacto.md`
-```markdown
 # Contacto
 
 - 📧 Email: 4070953@alu.murciaeduca.es

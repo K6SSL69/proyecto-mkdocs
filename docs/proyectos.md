@@ -1,9 +1,13 @@
-# Proyectos
+<div class="grid cards">
 
-## Proyecto 1
-Página web en HTML y CSS.
+- ### 💻 Proyecto 1
+  Página web personal con HTML y CSS
 
-## Proyecto 2
-Aplicación en Python.
-```python
-print("Hola Mundo")
+- ### 📱 Proyecto 2
+  App de tareas con JavaScript
+
+- ### 🚀 Proyecto 3
+  Portafolio con MkDocs
+
+</div>
+

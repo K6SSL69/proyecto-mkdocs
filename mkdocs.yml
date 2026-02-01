@@ -2,10 +2,25 @@ site_name: Proyecto de Leonardo Jesús Arévalo Abellán
 site_url: https://K6SSL69.github.io/proyecto-mkdocs/
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
 nav:
-  - Inicio: index.md
-  - Formacion y experiencia: formacion.md
-  - Preoyectos: proyectos.md
-  - Contacto: contacto.md 
+  - 🏠 Inicio: index.md
+  - 🎓 Formación: formacion.md
+  - 💻 Proyectos: proyectos.md
+  - 📬 Contacto: contacto.md
+
+
+extra_css:
+  - stylesheets/extra.css
 

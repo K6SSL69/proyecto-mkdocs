@@ -1,11 +1,20 @@
-## 💻 Proyectos
+<h1>💻 Proyectos</h1>
 
-=== "Proyecto 1"
-    Página web personal con HTML y CSS.
+<div class="cards-container">
 
-=== "Proyecto 2"
-    App de tareas con JavaScript.
+  <div class="card">
+    <h3>💻 Proyecto 1</h3>
+    <p>Página web personal creada con HTML y CSS.</p>
+  </div>
 
-=== "Proyecto 3"
-    Portafolio con MkDocs.
+  <div class="card">
+    <h3>📱 Proyecto 2</h3>
+    <p>Aplicación de tareas usando JavaScript.</p>
+  </div>
 
+  <div class="card">
+    <h3>🚀 Proyecto 3</h3>
+    <p>Portafolio desarrollado con MkDocs y Material.</p>
+  </div>
+
+</div>

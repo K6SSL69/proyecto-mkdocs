@@ -1,14 +1,11 @@
-# 💻 Proyectos
+## 💻 Proyectos
 
-<div class="grid cards">
+=== "Proyecto 1"
+    Página web personal con HTML y CSS.
 
-- ### 💻 Proyecto 1
-  Página web personal creada con HTML y CSS.
+=== "Proyecto 2"
+    App de tareas con JavaScript.
 
-- ### 📱 Proyecto 2
-  Aplicación de tareas usando JavaScript.
+=== "Proyecto 3"
+    Portafolio con MkDocs.
 
-- ### 🚀 Proyecto 3
-  Portafolio desarrollado con MkDocs y Material.
-
-</div>

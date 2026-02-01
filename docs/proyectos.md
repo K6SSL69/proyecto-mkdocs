@@ -1,13 +1,14 @@
+# 💻 Proyectos
+
 <div class="grid cards">
 
 - ### 💻 Proyecto 1
-  Página web personal con HTML y CSS
+  Página web personal creada con HTML y CSS.
 
 - ### 📱 Proyecto 2
-  App de tareas con JavaScript
+  Aplicación de tareas usando JavaScript.
 
 - ### 🚀 Proyecto 3
-  Portafolio con MkDocs
+  Portafolio desarrollado con MkDocs y Material.
 
 </div>
-
